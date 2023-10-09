@@ -2,12 +2,6 @@
 main:
   - title: "Publications"
     url: https://dds0117.github.io/micro-env.github.io/publications/
-
-  - title: "Talks"
-    url: https://dds0117.github.io/micro-env.github.io/talks/    
-
-  - title: "Teaching"
-    url: https://dds0117.github.io/micro-env.github.io/teaching/    
     
   - title: "Portfolio"
     url: https://dds0117.github.io/micro-env.github.io/portfolio/
